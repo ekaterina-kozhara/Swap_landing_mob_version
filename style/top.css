@@ -323,8 +323,12 @@ color: red;
     margin-left: -17px;
   }
 
-  .interests, .interests2 {
+  .interests {
     margin-top: 70px;
+  }
+
+  .interests2 {
+    margin-top: 90px;
   }
 
   .interests img {
@@ -477,6 +481,10 @@ color: red;
   .interests2 {
     margin-top: 90px;
   }
+
+  .fin {
+    margin-top: 250px;
+  }
 }
 
 @media (min-width: 414px) and (max-width: 550px) {
@@ -484,5 +492,9 @@ color: red;
     width: 110%;
     /* margin-left: -17px;
     margin-right: -17px; */
+  }
+
+  .fin {
+    margin-top: 250px;
   }
 }
